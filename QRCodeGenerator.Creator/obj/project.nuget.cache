@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJz0IGqOyV0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.Creator\\QRCodeGenerator.Creator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
