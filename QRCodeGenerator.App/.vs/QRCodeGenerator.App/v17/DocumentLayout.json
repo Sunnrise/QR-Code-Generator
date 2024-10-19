@@ -7,8 +7,11 @@
       "RelativeMoniker": "D:0:0:{511379C9-F791-4076-A133-0123DFEB9624}|QRCodeGenerator.App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511379C9-F791-4076-A133-0123DFEB9624}|QRCodeGenerator.App.csproj|c:\\users\\alper\\documents\\vsstudio project\\qr-code-generator\\qrcodegenerator.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511379C9-F791-4076-A133-0123DFEB9624}|QRCodeGenerator.App.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511379C9-F791-4076-A133-0123DFEB9624}|QRCodeGenerator.App.csproj|c:\\users\\alper\\documents\\vsstudio project\\qr-code-generator\\qrcodegenerator.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511379C9-F791-4076-A133-0123DFEB9624}|QRCodeGenerator.App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B033361C-268F-42C8-AF0D-16B3244FD75D}|..\\QRCodeGenerator.Creator\\QRCodeGenerator.Creator.csproj|c:\\users\\alper\\documents\\vsstudio project\\qr-code-generator\\qrcodegenerator.creator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +29,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.App\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.App\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:39:12.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.App\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.App\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T14:37:35.814Z",
+              "WhenOpened": "2024-10-19T17:50:53.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:46:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.Creator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\QRCodeGenerator.Creator\\Program.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\QR-Code-Generator\\QRCodeGenerator.Creator\\Program.cs",
+              "RelativeToolTip": "..\\QRCodeGenerator.Creator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:46:32.261Z",
               "EditorCaption": ""
             }
           ]

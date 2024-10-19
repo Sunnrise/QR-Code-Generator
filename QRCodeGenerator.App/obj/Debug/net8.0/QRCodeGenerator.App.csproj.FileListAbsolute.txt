@@ -32,3 +32,4 @@ C:\Users\alper\Documents\vsstudio project\QR-Code-Generator\QRCodeGenerator.App\
 C:\Users\alper\Documents\vsstudio project\QR-Code-Generator\QRCodeGenerator.App\obj\Debug\net8.0\QRCodeGenerator.App.pdb
 C:\Users\alper\Documents\vsstudio project\QR-Code-Generator\QRCodeGenerator.App\obj\Debug\net8.0\QRCodeGenerator.App.genruntimeconfig.cache
 C:\Users\alper\Documents\vsstudio project\QR-Code-Generator\QRCodeGenerator.App\obj\Debug\net8.0\ref\QRCodeGenerator.App.dll
+C:\Users\alper\Documents\vsstudio project\QR-Code-Generator\QRCodeGenerator.App\obj\Debug\net8.0\QRCodeGenerator.App.sourcelink.json
